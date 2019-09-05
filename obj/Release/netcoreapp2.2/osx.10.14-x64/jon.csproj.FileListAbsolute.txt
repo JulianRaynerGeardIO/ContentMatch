@@ -1,0 +1,14 @@
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/libhostpolicy.dylib
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/libhostfxr.dylib
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/jon
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/jon.deps.json
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/jon.runtimeconfig.json
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/jon.runtimeconfig.dev.json
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/jon.dll
+/Users/julianrayner/Documents/GearD/tests/jon/bin/Release/netcoreapp2.2/osx.10.14-x64/jon.pdb
+/Users/julianrayner/Documents/GearD/tests/jon/obj/Release/netcoreapp2.2/osx.10.14-x64/jon.csprojAssemblyReference.cache
+/Users/julianrayner/Documents/GearD/tests/jon/obj/Release/netcoreapp2.2/osx.10.14-x64/jon.csproj.CoreCompileInputs.cache
+/Users/julianrayner/Documents/GearD/tests/jon/obj/Release/netcoreapp2.2/osx.10.14-x64/jon.AssemblyInfoInputs.cache
+/Users/julianrayner/Documents/GearD/tests/jon/obj/Release/netcoreapp2.2/osx.10.14-x64/jon.AssemblyInfo.cs
+/Users/julianrayner/Documents/GearD/tests/jon/obj/Release/netcoreapp2.2/osx.10.14-x64/jon.dll
+/Users/julianrayner/Documents/GearD/tests/jon/obj/Release/netcoreapp2.2/osx.10.14-x64/jon.pdb
