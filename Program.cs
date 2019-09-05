@@ -37,4 +37,9 @@ dotnet publish -c Release -r win10-x64
 dotnet publish -c Release -r osx.10.14-x64
 dotnet publish -c Release -r ubuntu.16.10-x64
 https://docs.microsoft.com/en-us/dotnet/core/rid-catalog
+
+
+// Stupidly large data
+https://github.com/aumcode/nfx/tree/master/Source/NFX/ApplicationModel/Pile
+https://www.youtube.com/watch?v=eqWsWsj82u4&feature=youtu.be
  */
