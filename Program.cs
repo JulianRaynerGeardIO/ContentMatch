@@ -24,6 +24,7 @@ namespace jon {
         static List<IFilter<SupplierEntry>> getSupplierFilters() {
             List<IFilter<SupplierEntry>> filters = new List<IFilter<SupplierEntry>>();
             filters.Add(new InvoiceContainsAllWordsSupplierFilter());
+            filters.Add(new NameInSameRegionSupplierFilter());
             return filters;
         }
     }
@@ -38,8 +39,10 @@ dotnet publish -c Release -r osx.10.14-x64
 dotnet publish -c Release -r ubuntu.16.10-x64
 https://docs.microsoft.com/en-us/dotnet/core/rid-catalog
 
-
 // Stupidly large data
 https://github.com/aumcode/nfx/tree/master/Source/NFX/ApplicationModel/Pile
 https://www.youtube.com/watch?v=eqWsWsj82u4&feature=youtu.be
+
+// List<T> source code
+https://referencesource.microsoft.com/#mscorlib/system/collections/generic/list.cs
  */
